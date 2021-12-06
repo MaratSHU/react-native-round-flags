@@ -1,5 +1,6 @@
 # react-native-round-flags
-Fun with flags (in React Native)!
+ Fun with flags (in React Native)! forked from [pohodnya/react-native-round-flags](https://github.com/pohodnya/react-native-round-flags)   
+ Icons compressed, so they get less than 1MB on disk, dimensions stay at 64x64px.
 
 ### Example
 ![Round Icons demonstration](example.png)
